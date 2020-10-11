@@ -1,3 +1,5 @@
 ._*
 .DS*
 .idea
+_site/
+.sass-cache

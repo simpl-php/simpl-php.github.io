@@ -1,0 +1,11 @@
+# Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
+permalink: pretty
+
+timezone: America/Chicago
+
+# Exclude metadata and development time dependencies (like node modules)
+exclude: [README.md, node_modules, vendor]
+#include: [index.md, assets]
+markdown: kramdown
+sass:
+  sass_dir: _sass
