@@ -4,10 +4,8 @@ title: Config
 tab: components
 ---
 
-# simpl/config
-
 [![Build Status](https://img.shields.io/travis/simpl-php/config.svg?style=flat-square)](https://travis-ci.org/simpl-php/config)
-
+# simpl/config
 
 Simple configuration provider based on [PHP dotenv](https://github.com/vlucas/phpdotenv)
 
