@@ -48,13 +48,13 @@ $count = $db->exec('delete from test where id = ?', $id);
 $count = $db->exec('update test set foo = ? where id = ?', [$foo, $id]);
 ```
 
-> For both UPDATES and DELETES, it , `exec` will return the number of affected rows.
+> For both UPDATES and DELETES, `exec()` will return the number of affected rows.
 
 ### Running an INSERT statement.
 ```php
-$count = $db->insert('insert into test (foo, bar) values (?,?)', [$foo, $bar]);
+$id = $db->insert('insert into test (foo, bar) values (?,?)', [$foo, $bar]);
 ```
 
-> For INSERT statements, it will return the last inserted id.
+> For INSERT statements, `insert()` will return the last inserted id.
 
 
