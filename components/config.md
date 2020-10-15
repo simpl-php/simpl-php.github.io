@@ -9,8 +9,7 @@ tab: components
 
 # simpl/config
 
-
-Simple configuration provider based on [PHP dotenv](https://github.com/vlucas/phpdotenv)
+>Simple configuration provider based on [PHP dotenv](https://github.com/vlucas/phpdotenv)
 
 Combines the simplicity of `.env` files with the flexibility of defining arrays of config values.
 

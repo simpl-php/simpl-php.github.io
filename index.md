@@ -5,7 +5,7 @@ tab: about
 ---
 # The Simpl PHP Project
 
-## Making it _Simpl_ to build great PHP Apps!
+## Making it _Simpl_ to build PHP apps that don't suck&#174;
 
 <strong><em>Let's face it. If I want to build a large enterprise PHP application, I'm probably going to use a major framework.</em></strong>
 

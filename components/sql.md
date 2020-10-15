@@ -8,7 +8,7 @@ tab: components
 [![Build Status](https://img.shields.io/travis/simpl-php/sql)](https://travis-ci.org/simpl-php/sql)
 
 # simpl/sql
-A dead-simple layer on top of PDO to make PDO setup and querying simpler
+>A dead-simple layer on top of PDO to make PDO setup and querying simpler
 
 ## Installation
 
