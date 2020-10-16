@@ -3,6 +3,17 @@ $screen-sm-min: 768px;
 $screen-md-min: 768px;
 $screen-lg-min: 1200px;
 
+.navbar-default{
+  background-color: #F77E13;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus
+{
+  background-color: #ED6F00;
+}
+
 div.page{
   background-color: #ffffff;
   margin: 30px 6px;
