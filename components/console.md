@@ -4,7 +4,7 @@ title: Console
 tab: components
 ---
 
-[![Source](https://img.shields.io/badge/Source-simpl--php%2Fconsole-blue)](https://github.com/simpl-php/csv)
+[![Source](https://img.shields.io/badge/Source-simpl--php%2Fconsole-blue)](https://github.com/simpl-php/console)
 
 # Simpl/Console
 
