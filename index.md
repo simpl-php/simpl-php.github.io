@@ -19,4 +19,9 @@ I'm starting with a [wrapper for PDO](/components/sql) and a [configuration libr
 are the components I've needed myself most recently. I expect more components to come, including lightweight skeletons
 for solving common problems.
 
+### The Simpl Components
+
+<ul>
+    {% include component_links.html %}
+</ul>
 
